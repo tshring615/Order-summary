@@ -77,7 +77,7 @@ main {
     flex-wrap: wrap;
     background-color: var(--pale-blue);
     border-radius: var(--border-size-radius);
-    padding: .5rem;
+    padding: 1rem;
     justify-content: space-between;
     align-items: center;
     margin-bottom: var(--margin-bottom-value);
